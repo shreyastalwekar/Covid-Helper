@@ -11,7 +11,7 @@
 	4. Shreyas Talwekar, VIT Pune
 
 - *Detailed Explanation of the Idea:*
-	CovidHelper is an application to classify COVID19 and non-COVID through deep learning . In the Covidhelper Android App, there exists a subtle difference in X-ray images of lungs from COVID positive vs COIVID negative patients. We designed a website with complete diagnostics that allows users to upload X-ray images and the system then predicts.
+	CovidHelper is an application to classify COVID19 and non-COVID through deep learning . In the Covidhelper Android App, there exists a subtle difference in X-ray images of lungs from COVID positive vs COIVID negative patients. We designed a Android App with complete diagnostics that allows users to upload X-ray images and the system then predicts.
 
 	It is a Android App that can detect the Covid-19 through x rays using deep learning. It shows nearest vaccination centre also it provides resources for fighting covid and getting vaccinated .
 
