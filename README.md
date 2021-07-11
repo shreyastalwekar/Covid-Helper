@@ -26,3 +26,19 @@ Apk link:
  https://drive.google.com/drive/folders/1VwaeyrlSXO41f55ex8f991h9yu_907U8?usp=sharing
 
 Now install app in your Android Phone.
+
+# Screenshots
+## Intro-Pages
+![Screenshot (52)](https://user-images.githubusercontent.com/74871941/125183923-b0124c80-e237-11eb-9ba4-bc3cb3a43302.png)
+
+## Main_pages
+![Screenshot (56)](https://user-images.githubusercontent.com/74871941/125184155-09c74680-e239-11eb-8353-4bc017e73a86.png)
+
+## Covid-Detector
+![Screenshot (53)](https://user-images.githubusercontent.com/74871941/125183963-e94abc80-e237-11eb-979e-492924e6ef9f.png)
+
+## Drawer-Pages
+![Screenshot (55)](https://user-images.githubusercontent.com/74871941/125184080-958ca300-e238-11eb-9288-6a1d9dafa2a2.png)
+
+
+
